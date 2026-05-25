@@ -1,0 +1,2363 @@
+{
+  "boards": {
+    "9a580aac-8f96-4a1d-84d1-094c74d76991": {
+      "name": "System Initialization"
+    }
+  },
+  "nodes": {
+    "9a580aac-8f96-4a1d-84d1-094c74d76991": {
+      "nodes": [
+        {
+          "id": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "type": "timeline",
+          "position": {
+            "x": 4701.822909706028,
+            "y": 2249.155587781397
+          },
+          "data": {},
+          "modifiedAt": "2026-05-25T19:41:24.013Z"
+        },
+        {
+          "id": "4fa96be9-97d4-4c70-b726-cc1f6b8f2de0",
+          "type": "image",
+          "position": {
+            "x": 555,
+            "y": 88
+          },
+          "data": {
+            "url": "https://cdn.pixabay.com/photo/2016/01/03/11/24/gear-1119298_1280.png"
+          },
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d"
+        },
+        {
+          "id": "a02fc349-c733-425e-8c90-c74b5be4de9a",
+          "type": "sticky_note",
+          "position": {
+            "x": 95,
+            "y": 436
+          },
+          "data": {},
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "modifiedAt": "2026-05-25T19:02:45.234Z"
+        },
+        {
+          "id": "2235b7f3-51a2-4e71-a6eb-ab44f8c76367",
+          "type": "sticky_note",
+          "position": {
+            "x": 545,
+            "y": 436
+          },
+          "data": {},
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "modifiedAt": "2026-05-25T18:31:44.433Z"
+        },
+        {
+          "id": "21016285-6c8c-42ff-8369-96394cf57661",
+          "type": "sticky_note",
+          "position": {
+            "x": 545,
+            "y": 756
+          },
+          "data": {},
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "modifiedAt": "2026-05-25T18:32:01.148Z"
+        },
+        {
+          "id": "25091b35-1861-4265-87e4-6f21c83aacaa",
+          "type": "sticky_note",
+          "position": {
+            "x": 995,
+            "y": 436
+          },
+          "data": {},
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "modifiedAt": "2026-05-25T19:40:49.932Z"
+        },
+        {
+          "id": "26ca8ed3-8a05-46d2-9233-dd08f2615919",
+          "type": "image",
+          "position": {
+            "x": 1455,
+            "y": 88
+          },
+          "data": {
+            "url": "https://cdn.pixabay.com/photo/2016/01/03/11/24/gear-1119298_1280.png"
+          },
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d"
+        },
+        {
+          "id": "46c23cc0-d1f3-47d7-bc8f-3a2de4b24d1a",
+          "type": "sticky_note",
+          "position": {
+            "x": 1445,
+            "y": 436
+          },
+          "data": {},
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "modifiedAt": "2026-05-25T18:34:21.508Z"
+        },
+        {
+          "id": "e8411de1-04b7-4400-b7c2-12119e8f1987",
+          "type": "sticky_note",
+          "position": {
+            "x": 1445,
+            "y": 756
+          },
+          "data": {},
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "modifiedAt": "2026-05-25T18:59:40.968Z"
+        },
+        {
+          "id": "f6affead-9e00-4180-a646-f3bb8a70bfc2",
+          "type": "sticky_note",
+          "position": {
+            "x": 6868.798912628441,
+            "y": 2916.586897773786
+          },
+          "data": {},
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "modifiedAt": "2026-05-25T18:32:53.262Z"
+        },
+        {
+          "id": "11b30516-104d-440d-9824-902e8553e73d",
+          "type": "sticky_note",
+          "position": {
+            "x": 1895,
+            "y": 436
+          },
+          "data": {},
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "modifiedAt": "2026-05-25T19:00:34.738Z",
+          "linkedTo": "/app/board/9a580aac-8f96-4a1d-84d1-094c74d76991/?moveToWidget=25091b35-1861-4265-87e4-6f21c83aacaa"
+        },
+        {
+          "id": "7944e198-8d5e-4e5b-ab84-473aa3a3fd5c",
+          "type": "image",
+          "position": {
+            "x": 2355,
+            "y": 88
+          },
+          "data": {
+            "url": "https://cdn.pixabay.com/photo/2016/01/03/11/24/gear-1119298_1280.png"
+          },
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "linkedTo": "/app/board/9a580aac-8f96-4a1d-84d1-094c74d76991/?moveToWidget=26ca8ed3-8a05-46d2-9233-dd08f2615919"
+        },
+        {
+          "id": "316c7a6c-a806-4ce7-a10d-9c7cbae5689b",
+          "type": "sticky_note",
+          "position": {
+            "x": 2345,
+            "y": 436
+          },
+          "data": {},
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "modifiedAt": "2026-05-25T19:01:09.456Z"
+        },
+        {
+          "id": "7854b241-91a4-4fb6-ab36-9eee759571c7",
+          "type": "sticky_note",
+          "position": {
+            "x": 2345,
+            "y": 756
+          },
+          "data": {},
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "modifiedAt": "2026-05-25T19:01:33.761Z"
+        },
+        {
+          "id": "13d79d83-978e-4e0c-b20c-999bb19220d9",
+          "type": "sticky_note",
+          "position": {
+            "x": 2795,
+            "y": 436
+          },
+          "data": {},
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "modifiedAt": "2026-05-25T19:01:55.958Z",
+          "linkedTo": "/app/board/9a580aac-8f96-4a1d-84d1-094c74d76991/?moveToWidget=25091b35-1861-4265-87e4-6f21c83aacaa"
+        },
+        {
+          "id": "5395f781-4202-47cd-a6e0-6f2486072cb7",
+          "type": "sticky_note",
+          "position": {
+            "x": 3245,
+            "y": 436
+          },
+          "data": {},
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "modifiedAt": "2026-05-25T19:02:06.745Z",
+          "linkedTo": "/app/board/9a580aac-8f96-4a1d-84d1-094c74d76991/?moveToWidget=a02fc349-c733-425e-8c90-c74b5be4de9a"
+        },
+        {
+          "id": "4cfd39cc-6a93-475d-979f-1b72083eca33",
+          "type": "spec_node",
+          "position": {
+            "x": 46.5,
+            "y": 1048
+          },
+          "data": {},
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d"
+        },
+        {
+          "id": "93d22fb5-16bd-466e-ac84-efce5a024fb5",
+          "type": "slice_border",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "data": {
+            "type": "SLICE_BORDER",
+            "colId": "29227869-6689-4803-b928-060047999937",
+            "title": "Finalize System Initialization"
+          },
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "hidden": true,
+          "modifiedAt": "2026-05-25T19:23:14.603Z"
+        },
+        {
+          "id": "d5e09aba-e460-4828-94a9-275a4c2e0319",
+          "type": "slice_border",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "data": {
+            "type": "SLICE_BORDER",
+            "colId": "411184b3-c279-4ac7-9d47-29287deb0da7",
+            "title": "Process Task"
+          },
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "hidden": true,
+          "modifiedAt": "2026-05-25T19:23:14.603Z"
+        },
+        {
+          "id": "97b7eea5-205f-45fb-9453-b9070d69c4ac",
+          "type": "slice_border",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "data": {
+            "type": "SLICE_BORDER",
+            "colId": "eee52cb5-f6ef-44ac-887c-48b17c53d480",
+            "title": "Mark Task Done"
+          },
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "hidden": true,
+          "modifiedAt": "2026-05-25T19:23:14.603Z"
+        },
+        {
+          "id": "c74b0300-4769-48e9-82ed-af95638a5f42",
+          "type": "slice_border",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "data": {
+            "type": "SLICE_BORDER",
+            "colId": "1d40676e-8a05-4da6-b7fa-17c72f11cb45",
+            "title": "Populate Initialization Tasks"
+          },
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "hidden": true,
+          "modifiedAt": "2026-05-25T19:23:14.603Z"
+        },
+        {
+          "id": "4bdb37f2-dff2-4b9e-847a-3ebbb97855e9",
+          "type": "slice_border",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "data": {
+            "type": "SLICE_BORDER",
+            "colId": "a0282df3-b718-4768-952c-452acc418422",
+            "title": "Request System Initialization"
+          },
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "hidden": true,
+          "modifiedAt": "2026-05-25T19:23:14.603Z"
+        },
+        {
+          "id": "7c78f997-d09b-481c-a1ee-cdb5e754d814",
+          "type": "slice_border",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "data": {
+            "type": "SLICE_BORDER",
+            "colId": "94d87e24-09ae-4737-8c25-f13cd3502ca5",
+            "title": "Mark Initialization Done"
+          },
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "hidden": true,
+          "modifiedAt": "2026-05-25T19:23:14.603Z"
+        },
+        {
+          "id": "c3e35613-78bf-40c9-892e-1ae49cfcd545",
+          "type": "slice_border",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "data": {
+            "type": "SLICE_BORDER",
+            "colId": "c79f14a9-3d9e-4b26-9865-aab5dcfb1b32",
+            "title": "Mark Initialized"
+          },
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "hidden": true,
+          "modifiedAt": "2026-05-25T19:23:14.603Z"
+        },
+        {
+          "id": "4d937c12-e03e-43a9-a15e-41622a5f4cab",
+          "type": "image",
+          "position": {
+            "x": 3705,
+            "y": 88
+          },
+          "data": {
+            "url": "https://cdn.pixabay.com/photo/2016/01/03/11/24/gear-1119298_1280.png"
+          },
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "linkedTo": "/app/board/9a580aac-8f96-4a1d-84d1-094c74d76991/?moveToWidget=4fa96be9-97d4-4c70-b726-cc1f6b8f2de0"
+        },
+        {
+          "id": "42255edc-1569-463c-a6cc-d4473a77cc12",
+          "type": "sticky_note",
+          "position": {
+            "x": 3695,
+            "y": 436
+          },
+          "data": {},
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "modifiedAt": "2026-05-25T19:30:48.564Z",
+          "linkedTo": "/app/board/9a580aac-8f96-4a1d-84d1-094c74d76991/?moveToWidget=2235b7f3-51a2-4e71-a6eb-ab44f8c76367"
+        },
+        {
+          "id": "61e12b94-8c4f-4cef-9c20-77f679cf298d",
+          "type": "sticky_note",
+          "position": {
+            "x": 3695,
+            "y": 756
+          },
+          "data": {},
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "modifiedAt": "2026-05-25T19:30:47.718Z",
+          "linkedTo": "/app/board/9a580aac-8f96-4a1d-84d1-094c74d76991/?moveToWidget=21016285-6c8c-42ff-8369-96394cf57661"
+        },
+        {
+          "id": "730428e3-9fa2-405b-8777-502b15ceea54",
+          "type": "slice_border",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "data": {
+            "type": "SLICE_BORDER",
+            "colId": "8f671f24-fb03-40a9-9280-c95c5c48822c",
+            "title": "Request System Initialization V2"
+          },
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "hidden": true,
+          "modifiedAt": "2026-05-25T22:32:11.092Z"
+        },
+        {
+          "id": "92999e46-7400-4d51-b28c-d2b576b6a580",
+          "type": "spec_node",
+          "position": {
+            "x": 496.5,
+            "y": 1048
+          },
+          "data": {},
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d"
+        },
+        {
+          "id": "629a2cf8-cea8-4686-9daa-7c197e4e30c2",
+          "type": "spec_node",
+          "position": {
+            "x": 2296.5,
+            "y": 1048
+          },
+          "data": {},
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d"
+        },
+        {
+          "id": "420f2862-90ab-4a31-8a26-d2af50a4df43",
+          "type": "slice_border",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "data": {
+            "type": "SLICE_BORDER",
+            "colId": "92ed0e51-a21e-482e-a242-7a71d9d88cf4",
+            "title": "First Start"
+          },
+          "parentId": "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d",
+          "hidden": true,
+          "modifiedAt": "2026-05-25T22:32:11.092Z"
+        }
+      ],
+      "edges": [
+        {
+          "id": "3e0380a8-3531-4f98-83a3-fa9e87a070bb",
+          "source": "4fa96be9-97d4-4c70-b726-cc1f6b8f2de0",
+          "target": "2235b7f3-51a2-4e71-a6eb-ab44f8c76367",
+          "sourceHandle": "source-bottom",
+          "targetHandle": "target-top",
+          "type": "default",
+          "animated": true,
+          "style": {
+            "stroke": "#000000",
+            "strokeWidth": 4,
+            "startStrokeCap": "none",
+            "endStrokeCap": "arrow",
+            "strokeStyle": "normal",
+            "strokeColor": "#000000",
+            "opacity": 1
+          },
+          "markerEnd": {
+            "type": "arrowclosed"
+          },
+          "zIndex": 500,
+          "data": {},
+          "selected": false
+        },
+        {
+          "id": "c7e23d48-a8ef-424f-9f39-d8e71b555bc4",
+          "source": "2235b7f3-51a2-4e71-a6eb-ab44f8c76367",
+          "target": "21016285-6c8c-42ff-8369-96394cf57661",
+          "sourceHandle": "source-bottom",
+          "targetHandle": "target-top",
+          "type": "default",
+          "animated": true,
+          "style": {
+            "stroke": "#7291aa",
+            "strokeWidth": 4,
+            "startStrokeCap": "none",
+            "endStrokeCap": "arrow",
+            "strokeStyle": "normal",
+            "strokeColor": "#000000",
+            "opacity": 1
+          },
+          "markerEnd": {
+            "type": "arrowclosed"
+          },
+          "zIndex": 500,
+          "data": {},
+          "selected": false
+        },
+        {
+          "id": "2cc8fe95-5fbc-4d30-a7d6-8935b6734e7d",
+          "source": "21016285-6c8c-42ff-8369-96394cf57661",
+          "target": "25091b35-1861-4265-87e4-6f21c83aacaa",
+          "sourceHandle": "source-top",
+          "targetHandle": "target-bottom",
+          "type": "default",
+          "animated": true,
+          "style": {
+            "stroke": "#e08b3a",
+            "strokeWidth": 4,
+            "startStrokeCap": "none",
+            "endStrokeCap": "arrow",
+            "strokeStyle": "normal",
+            "strokeColor": "#000000",
+            "opacity": 1
+          },
+          "markerEnd": {
+            "type": "arrowclosed"
+          },
+          "zIndex": 500,
+          "data": {},
+          "selected": false
+        },
+        {
+          "id": "fd9611f7-c6bc-4f69-bbbf-922d9d86f06b",
+          "source": "25091b35-1861-4265-87e4-6f21c83aacaa",
+          "target": "26ca8ed3-8a05-46d2-9233-dd08f2615919",
+          "sourceHandle": "source-top",
+          "targetHandle": "target-bottom",
+          "type": "default",
+          "animated": true,
+          "style": {
+            "stroke": "#7fa94d",
+            "strokeWidth": 4,
+            "startStrokeCap": "none",
+            "endStrokeCap": "arrow",
+            "strokeStyle": "normal",
+            "strokeColor": "#000000",
+            "opacity": 1
+          },
+          "markerEnd": {
+            "type": "arrowclosed"
+          },
+          "zIndex": 500,
+          "data": {},
+          "selected": false
+        },
+        {
+          "id": "073c6051-ce59-4717-8b9a-3b1a733a84a1",
+          "source": "26ca8ed3-8a05-46d2-9233-dd08f2615919",
+          "target": "46c23cc0-d1f3-47d7-bc8f-3a2de4b24d1a",
+          "sourceHandle": "source-bottom",
+          "targetHandle": "target-top",
+          "type": "default",
+          "animated": true,
+          "style": {
+            "stroke": "#000000",
+            "strokeWidth": 4,
+            "startStrokeCap": "none",
+            "endStrokeCap": "arrow",
+            "strokeStyle": "normal",
+            "strokeColor": "#000000",
+            "opacity": 1
+          },
+          "markerEnd": {
+            "type": "arrowclosed"
+          },
+          "zIndex": 500,
+          "data": {},
+          "selected": false
+        },
+        {
+          "id": "e71d0ce4-4bf1-47ea-b49e-39c6d0fb1ffb",
+          "source": "46c23cc0-d1f3-47d7-bc8f-3a2de4b24d1a",
+          "target": "e8411de1-04b7-4400-b7c2-12119e8f1987",
+          "sourceHandle": "source-bottom",
+          "targetHandle": "target-top",
+          "type": "default",
+          "animated": true,
+          "style": {
+            "stroke": "#7291aa",
+            "strokeWidth": 4,
+            "startStrokeCap": "none",
+            "endStrokeCap": "arrow",
+            "strokeStyle": "normal",
+            "strokeColor": "#000000",
+            "opacity": 1
+          },
+          "markerEnd": {
+            "type": "arrowclosed"
+          },
+          "zIndex": 500,
+          "data": {},
+          "selected": false
+        },
+        {
+          "id": "73695bc7-733d-4723-a6b9-1a1f4e28a11b",
+          "source": "e8411de1-04b7-4400-b7c2-12119e8f1987",
+          "target": "11b30516-104d-440d-9824-902e8553e73d",
+          "sourceHandle": "source-top",
+          "targetHandle": "target-bottom",
+          "type": "default",
+          "animated": true,
+          "style": {
+            "stroke": "#e08b3a",
+            "strokeWidth": 4,
+            "startStrokeCap": "none",
+            "endStrokeCap": "arrow",
+            "strokeStyle": "normal",
+            "strokeColor": "#000000",
+            "opacity": 1
+          },
+          "markerEnd": {
+            "type": "arrowclosed"
+          },
+          "zIndex": 500,
+          "data": {},
+          "selected": false
+        },
+        {
+          "id": "be7f9817-9c6d-45d9-801c-566aa8f118de",
+          "source": "11b30516-104d-440d-9824-902e8553e73d",
+          "target": "7944e198-8d5e-4e5b-ab84-473aa3a3fd5c",
+          "sourceHandle": "source-top",
+          "targetHandle": "target-bottom",
+          "type": "default",
+          "animated": true,
+          "style": {
+            "stroke": "#7fa94d",
+            "strokeWidth": 4,
+            "startStrokeCap": "none",
+            "endStrokeCap": "arrow",
+            "strokeStyle": "normal",
+            "strokeColor": "#000000",
+            "opacity": 1
+          },
+          "markerEnd": {
+            "type": "arrowclosed"
+          },
+          "zIndex": 500,
+          "data": {},
+          "selected": false
+        },
+        {
+          "id": "d284cea1-4e3c-47be-9024-b4e735697885",
+          "source": "a02fc349-c733-425e-8c90-c74b5be4de9a",
+          "target": "4fa96be9-97d4-4c70-b726-cc1f6b8f2de0",
+          "sourceHandle": "source-top",
+          "targetHandle": "target-bottom",
+          "type": "default",
+          "animated": true,
+          "style": {
+            "stroke": "#7fa94d",
+            "strokeWidth": 4,
+            "startStrokeCap": "none",
+            "endStrokeCap": "arrow",
+            "strokeStyle": "normal",
+            "strokeColor": "#000000",
+            "opacity": 1
+          },
+          "markerEnd": {
+            "type": "arrowclosed"
+          },
+          "zIndex": 500,
+          "data": {},
+          "selected": false
+        },
+        {
+          "id": "b82f369f-d0eb-42dc-84a3-34e79e8c3d49",
+          "source": "7944e198-8d5e-4e5b-ab84-473aa3a3fd5c",
+          "target": "316c7a6c-a806-4ce7-a10d-9c7cbae5689b",
+          "sourceHandle": "source-bottom",
+          "targetHandle": "target-top",
+          "type": "default",
+          "animated": true,
+          "style": {
+            "stroke": "#000000",
+            "strokeWidth": 4,
+            "startStrokeCap": "none",
+            "endStrokeCap": "arrow",
+            "strokeStyle": "normal",
+            "strokeColor": "#000000",
+            "opacity": 1
+          },
+          "markerEnd": {
+            "type": "arrowclosed"
+          },
+          "zIndex": 500,
+          "data": {},
+          "selected": false
+        },
+        {
+          "id": "f18e29de-8453-4e09-9adb-3bb628e98046",
+          "source": "316c7a6c-a806-4ce7-a10d-9c7cbae5689b",
+          "target": "7854b241-91a4-4fb6-ab36-9eee759571c7",
+          "sourceHandle": "source-bottom",
+          "targetHandle": "target-top",
+          "type": "default",
+          "animated": true,
+          "style": {
+            "stroke": "#7291aa",
+            "strokeWidth": 4,
+            "startStrokeCap": "none",
+            "endStrokeCap": "arrow",
+            "strokeStyle": "normal",
+            "strokeColor": "#000000",
+            "opacity": 1
+          },
+          "markerEnd": {
+            "type": "arrowclosed"
+          },
+          "zIndex": 500,
+          "data": {},
+          "selected": false
+        },
+        {
+          "id": "55d2e9ae-c25b-4be9-890f-621af9a32a00",
+          "source": "7854b241-91a4-4fb6-ab36-9eee759571c7",
+          "target": "13d79d83-978e-4e0c-b20c-999bb19220d9",
+          "sourceHandle": "source-top",
+          "targetHandle": "target-bottom",
+          "type": "default",
+          "animated": true,
+          "style": {
+            "stroke": "#e08b3a",
+            "strokeWidth": 4,
+            "startStrokeCap": "none",
+            "endStrokeCap": "arrow",
+            "strokeStyle": "normal",
+            "strokeColor": "#000000",
+            "opacity": 1
+          },
+          "markerEnd": {
+            "type": "arrowclosed"
+          },
+          "zIndex": 500,
+          "data": {},
+          "selected": false
+        },
+        {
+          "id": "88e6978e-9575-408b-902c-c0ea4146a088",
+          "source": "7854b241-91a4-4fb6-ab36-9eee759571c7",
+          "target": "5395f781-4202-47cd-a6e0-6f2486072cb7",
+          "sourceHandle": "source-top",
+          "targetHandle": "target-bottom",
+          "type": "default",
+          "animated": true,
+          "style": {
+            "stroke": "#e08b3a",
+            "strokeWidth": 4,
+            "startStrokeCap": "none",
+            "endStrokeCap": "arrow",
+            "strokeStyle": "normal",
+            "strokeColor": "#000000",
+            "opacity": 1
+          },
+          "markerEnd": {
+            "type": "arrowclosed"
+          },
+          "zIndex": 500,
+          "data": {},
+          "selected": false
+        },
+        {
+          "id": "8e4e395d-daef-452f-a852-5e8402338e81",
+          "source": "5395f781-4202-47cd-a6e0-6f2486072cb7",
+          "target": "4d937c12-e03e-43a9-a15e-41622a5f4cab",
+          "sourceHandle": "source-top",
+          "targetHandle": "target-bottom",
+          "type": "default",
+          "animated": true,
+          "style": {
+            "stroke": "#7fa94d",
+            "strokeWidth": 4,
+            "startStrokeCap": "none",
+            "endStrokeCap": "arrow",
+            "strokeStyle": "normal",
+            "strokeColor": "#000000",
+            "opacity": 1
+          },
+          "markerEnd": {
+            "type": "arrowclosed"
+          },
+          "zIndex": 500,
+          "data": {},
+          "selected": false
+        },
+        {
+          "id": "47ba0d78-aa68-4c63-a09c-388913b38cee",
+          "source": "4d937c12-e03e-43a9-a15e-41622a5f4cab",
+          "target": "42255edc-1569-463c-a6cc-d4473a77cc12",
+          "sourceHandle": "source-bottom",
+          "targetHandle": "target-top",
+          "type": "default",
+          "animated": true,
+          "style": {
+            "stroke": "#000000",
+            "strokeWidth": 4,
+            "startStrokeCap": "none",
+            "endStrokeCap": "arrow",
+            "strokeStyle": "normal",
+            "strokeColor": "#000000",
+            "opacity": 1
+          },
+          "markerEnd": {
+            "type": "arrowclosed"
+          },
+          "zIndex": 500,
+          "data": {},
+          "selected": false
+        },
+        {
+          "id": "b81c0571-854d-4041-9f4b-167f17db2930",
+          "source": "42255edc-1569-463c-a6cc-d4473a77cc12",
+          "target": "61e12b94-8c4f-4cef-9c20-77f679cf298d",
+          "sourceHandle": "source-bottom",
+          "targetHandle": "target-top",
+          "type": "default",
+          "animated": true,
+          "style": {
+            "stroke": "#7291aa",
+            "strokeWidth": 4,
+            "startStrokeCap": "none",
+            "endStrokeCap": "arrow",
+            "strokeStyle": "normal",
+            "strokeColor": "#000000",
+            "opacity": 1
+          },
+          "markerEnd": {
+            "type": "arrowclosed"
+          },
+          "zIndex": 500,
+          "data": {},
+          "selected": false
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "9a580aac-8f96-4a1d-84d1-094c74d76991": {
+      "9d8596bc-0e0f-4caf-b46c-dad12cb4cf7d": {
+        "meta": {
+          "type": "CHAPTER",
+          "timelineData": {
+            "rows": [
+              {
+                "id": "212e8fe3-98e6-4b78-9c6e-8aa043afe7d0",
+                "type": "actor",
+                "height": 320,
+                "label": "Actor"
+              },
+              {
+                "id": "96d8eb45-d332-4797-961e-9f7c22b34236",
+                "type": "interaction",
+                "height": 320,
+                "label": "Interaction"
+              },
+              {
+                "id": "f8e26350-c273-4fb4-bc4f-94eecebb4954",
+                "type": "swimlane",
+                "height": 320,
+                "label": "Swimlane"
+              },
+              {
+                "id": "9554d833-a74b-45c1-b7f9-810e8af36ba3",
+                "type": "spec",
+                "height": 320,
+                "label": "Spec Lane"
+              }
+            ],
+            "columns": [
+              {
+                "id": "92ed0e51-a21e-482e-a242-7a71d9d88cf4"
+              },
+              {
+                "id": "a0282df3-b718-4768-952c-452acc418422"
+              },
+              {
+                "id": "1d40676e-8a05-4da6-b7fa-17c72f11cb45"
+              },
+              {
+                "id": "411184b3-c279-4ac7-9d47-29287deb0da7"
+              },
+              {
+                "id": "eee52cb5-f6ef-44ac-887c-48b17c53d480"
+              },
+              {
+                "id": "29227869-6689-4803-b928-060047999937"
+              },
+              {
+                "id": "94d87e24-09ae-4737-8c25-f13cd3502ca5"
+              },
+              {
+                "id": "c79f14a9-3d9e-4b26-9865-aab5dcfb1b32"
+              },
+              {
+                "id": "8f671f24-fb03-40a9-9280-c95c5c48822c"
+              }
+            ],
+            "cells": [
+              {
+                "id": "212e8fe3-98e6-4b78-9c6e-8aa043afe7d0-92ed0e51-a21e-482e-a242-7a71d9d88cf4",
+                "rowId": "212e8fe3-98e6-4b78-9c6e-8aa043afe7d0",
+                "colId": "92ed0e51-a21e-482e-a242-7a71d9d88cf4"
+              },
+              {
+                "id": "212e8fe3-98e6-4b78-9c6e-8aa043afe7d0-a0282df3-b718-4768-952c-452acc418422",
+                "rowId": "212e8fe3-98e6-4b78-9c6e-8aa043afe7d0",
+                "colId": "a0282df3-b718-4768-952c-452acc418422",
+                "nodeType": "automation",
+                "nodeId": "4fa96be9-97d4-4c70-b726-cc1f6b8f2de0"
+              },
+              {
+                "id": "212e8fe3-98e6-4b78-9c6e-8aa043afe7d0-1d40676e-8a05-4da6-b7fa-17c72f11cb45",
+                "rowId": "212e8fe3-98e6-4b78-9c6e-8aa043afe7d0",
+                "colId": "1d40676e-8a05-4da6-b7fa-17c72f11cb45"
+              },
+              {
+                "id": "96d8eb45-d332-4797-961e-9f7c22b34236-92ed0e51-a21e-482e-a242-7a71d9d88cf4",
+                "rowId": "96d8eb45-d332-4797-961e-9f7c22b34236",
+                "colId": "92ed0e51-a21e-482e-a242-7a71d9d88cf4",
+                "nodeType": "readmodel",
+                "nodeId": "a02fc349-c733-425e-8c90-c74b5be4de9a"
+              },
+              {
+                "id": "96d8eb45-d332-4797-961e-9f7c22b34236-a0282df3-b718-4768-952c-452acc418422",
+                "rowId": "96d8eb45-d332-4797-961e-9f7c22b34236",
+                "colId": "a0282df3-b718-4768-952c-452acc418422",
+                "nodeType": "command",
+                "nodeId": "2235b7f3-51a2-4e71-a6eb-ab44f8c76367"
+              },
+              {
+                "id": "96d8eb45-d332-4797-961e-9f7c22b34236-1d40676e-8a05-4da6-b7fa-17c72f11cb45",
+                "rowId": "96d8eb45-d332-4797-961e-9f7c22b34236",
+                "colId": "1d40676e-8a05-4da6-b7fa-17c72f11cb45",
+                "nodeType": "readmodel",
+                "nodeId": "25091b35-1861-4265-87e4-6f21c83aacaa"
+              },
+              {
+                "id": "f8e26350-c273-4fb4-bc4f-94eecebb4954-92ed0e51-a21e-482e-a242-7a71d9d88cf4",
+                "rowId": "f8e26350-c273-4fb4-bc4f-94eecebb4954",
+                "colId": "92ed0e51-a21e-482e-a242-7a71d9d88cf4"
+              },
+              {
+                "id": "f8e26350-c273-4fb4-bc4f-94eecebb4954-a0282df3-b718-4768-952c-452acc418422",
+                "rowId": "f8e26350-c273-4fb4-bc4f-94eecebb4954",
+                "colId": "a0282df3-b718-4768-952c-452acc418422",
+                "nodeType": "event",
+                "nodeId": "21016285-6c8c-42ff-8369-96394cf57661"
+              },
+              {
+                "id": "f8e26350-c273-4fb4-bc4f-94eecebb4954-1d40676e-8a05-4da6-b7fa-17c72f11cb45",
+                "rowId": "f8e26350-c273-4fb4-bc4f-94eecebb4954",
+                "colId": "1d40676e-8a05-4da6-b7fa-17c72f11cb45"
+              },
+              {
+                "id": "9554d833-a74b-45c1-b7f9-810e8af36ba3-92ed0e51-a21e-482e-a242-7a71d9d88cf4",
+                "rowId": "9554d833-a74b-45c1-b7f9-810e8af36ba3",
+                "colId": "92ed0e51-a21e-482e-a242-7a71d9d88cf4",
+                "nodeType": "spec",
+                "nodeId": "4cfd39cc-6a93-475d-979f-1b72083eca33"
+              },
+              {
+                "id": "9554d833-a74b-45c1-b7f9-810e8af36ba3-a0282df3-b718-4768-952c-452acc418422",
+                "rowId": "9554d833-a74b-45c1-b7f9-810e8af36ba3",
+                "colId": "a0282df3-b718-4768-952c-452acc418422",
+                "nodeType": "spec",
+                "nodeId": "92999e46-7400-4d51-b28c-d2b576b6a580"
+              },
+              {
+                "id": "9554d833-a74b-45c1-b7f9-810e8af36ba3-1d40676e-8a05-4da6-b7fa-17c72f11cb45",
+                "rowId": "9554d833-a74b-45c1-b7f9-810e8af36ba3",
+                "colId": "1d40676e-8a05-4da6-b7fa-17c72f11cb45"
+              },
+              {
+                "id": "212e8fe3-98e6-4b78-9c6e-8aa043afe7d0-411184b3-c279-4ac7-9d47-29287deb0da7",
+                "rowId": "212e8fe3-98e6-4b78-9c6e-8aa043afe7d0",
+                "colId": "411184b3-c279-4ac7-9d47-29287deb0da7",
+                "nodeType": "automation",
+                "nodeId": "26ca8ed3-8a05-46d2-9233-dd08f2615919"
+              },
+              {
+                "id": "96d8eb45-d332-4797-961e-9f7c22b34236-411184b3-c279-4ac7-9d47-29287deb0da7",
+                "rowId": "96d8eb45-d332-4797-961e-9f7c22b34236",
+                "colId": "411184b3-c279-4ac7-9d47-29287deb0da7",
+                "nodeType": "command",
+                "nodeId": "46c23cc0-d1f3-47d7-bc8f-3a2de4b24d1a"
+              },
+              {
+                "id": "f8e26350-c273-4fb4-bc4f-94eecebb4954-411184b3-c279-4ac7-9d47-29287deb0da7",
+                "rowId": "f8e26350-c273-4fb4-bc4f-94eecebb4954",
+                "colId": "411184b3-c279-4ac7-9d47-29287deb0da7",
+                "nodeType": "event",
+                "nodeId": "e8411de1-04b7-4400-b7c2-12119e8f1987"
+              },
+              {
+                "id": "9554d833-a74b-45c1-b7f9-810e8af36ba3-411184b3-c279-4ac7-9d47-29287deb0da7",
+                "rowId": "9554d833-a74b-45c1-b7f9-810e8af36ba3",
+                "colId": "411184b3-c279-4ac7-9d47-29287deb0da7"
+              },
+              {
+                "id": "212e8fe3-98e6-4b78-9c6e-8aa043afe7d0-eee52cb5-f6ef-44ac-887c-48b17c53d480",
+                "rowId": "212e8fe3-98e6-4b78-9c6e-8aa043afe7d0",
+                "colId": "eee52cb5-f6ef-44ac-887c-48b17c53d480"
+              },
+              {
+                "id": "96d8eb45-d332-4797-961e-9f7c22b34236-eee52cb5-f6ef-44ac-887c-48b17c53d480",
+                "rowId": "96d8eb45-d332-4797-961e-9f7c22b34236",
+                "colId": "eee52cb5-f6ef-44ac-887c-48b17c53d480",
+                "nodeType": "readmodel",
+                "nodeId": "11b30516-104d-440d-9824-902e8553e73d"
+              },
+              {
+                "id": "f8e26350-c273-4fb4-bc4f-94eecebb4954-eee52cb5-f6ef-44ac-887c-48b17c53d480",
+                "rowId": "f8e26350-c273-4fb4-bc4f-94eecebb4954",
+                "colId": "eee52cb5-f6ef-44ac-887c-48b17c53d480"
+              },
+              {
+                "id": "9554d833-a74b-45c1-b7f9-810e8af36ba3-eee52cb5-f6ef-44ac-887c-48b17c53d480",
+                "rowId": "9554d833-a74b-45c1-b7f9-810e8af36ba3",
+                "colId": "eee52cb5-f6ef-44ac-887c-48b17c53d480"
+              },
+              {
+                "id": "212e8fe3-98e6-4b78-9c6e-8aa043afe7d0-29227869-6689-4803-b928-060047999937",
+                "rowId": "212e8fe3-98e6-4b78-9c6e-8aa043afe7d0",
+                "colId": "29227869-6689-4803-b928-060047999937",
+                "nodeType": "automation",
+                "nodeId": "7944e198-8d5e-4e5b-ab84-473aa3a3fd5c"
+              },
+              {
+                "id": "96d8eb45-d332-4797-961e-9f7c22b34236-29227869-6689-4803-b928-060047999937",
+                "rowId": "96d8eb45-d332-4797-961e-9f7c22b34236",
+                "colId": "29227869-6689-4803-b928-060047999937",
+                "nodeType": "command",
+                "nodeId": "316c7a6c-a806-4ce7-a10d-9c7cbae5689b"
+              },
+              {
+                "id": "f8e26350-c273-4fb4-bc4f-94eecebb4954-29227869-6689-4803-b928-060047999937",
+                "rowId": "f8e26350-c273-4fb4-bc4f-94eecebb4954",
+                "colId": "29227869-6689-4803-b928-060047999937",
+                "nodeType": "event",
+                "nodeId": "7854b241-91a4-4fb6-ab36-9eee759571c7"
+              },
+              {
+                "id": "9554d833-a74b-45c1-b7f9-810e8af36ba3-29227869-6689-4803-b928-060047999937",
+                "rowId": "9554d833-a74b-45c1-b7f9-810e8af36ba3",
+                "colId": "29227869-6689-4803-b928-060047999937",
+                "nodeType": "spec",
+                "nodeId": "629a2cf8-cea8-4686-9daa-7c197e4e30c2"
+              },
+              {
+                "id": "212e8fe3-98e6-4b78-9c6e-8aa043afe7d0-94d87e24-09ae-4737-8c25-f13cd3502ca5",
+                "rowId": "212e8fe3-98e6-4b78-9c6e-8aa043afe7d0",
+                "colId": "94d87e24-09ae-4737-8c25-f13cd3502ca5"
+              },
+              {
+                "id": "96d8eb45-d332-4797-961e-9f7c22b34236-94d87e24-09ae-4737-8c25-f13cd3502ca5",
+                "rowId": "96d8eb45-d332-4797-961e-9f7c22b34236",
+                "colId": "94d87e24-09ae-4737-8c25-f13cd3502ca5",
+                "nodeType": "readmodel",
+                "nodeId": "13d79d83-978e-4e0c-b20c-999bb19220d9"
+              },
+              {
+                "id": "f8e26350-c273-4fb4-bc4f-94eecebb4954-94d87e24-09ae-4737-8c25-f13cd3502ca5",
+                "rowId": "f8e26350-c273-4fb4-bc4f-94eecebb4954",
+                "colId": "94d87e24-09ae-4737-8c25-f13cd3502ca5"
+              },
+              {
+                "id": "9554d833-a74b-45c1-b7f9-810e8af36ba3-94d87e24-09ae-4737-8c25-f13cd3502ca5",
+                "rowId": "9554d833-a74b-45c1-b7f9-810e8af36ba3",
+                "colId": "94d87e24-09ae-4737-8c25-f13cd3502ca5"
+              },
+              {
+                "id": "212e8fe3-98e6-4b78-9c6e-8aa043afe7d0-c79f14a9-3d9e-4b26-9865-aab5dcfb1b32",
+                "rowId": "212e8fe3-98e6-4b78-9c6e-8aa043afe7d0",
+                "colId": "c79f14a9-3d9e-4b26-9865-aab5dcfb1b32"
+              },
+              {
+                "id": "96d8eb45-d332-4797-961e-9f7c22b34236-c79f14a9-3d9e-4b26-9865-aab5dcfb1b32",
+                "rowId": "96d8eb45-d332-4797-961e-9f7c22b34236",
+                "colId": "c79f14a9-3d9e-4b26-9865-aab5dcfb1b32",
+                "nodeType": "readmodel",
+                "nodeId": "5395f781-4202-47cd-a6e0-6f2486072cb7"
+              },
+              {
+                "id": "f8e26350-c273-4fb4-bc4f-94eecebb4954-c79f14a9-3d9e-4b26-9865-aab5dcfb1b32",
+                "rowId": "f8e26350-c273-4fb4-bc4f-94eecebb4954",
+                "colId": "c79f14a9-3d9e-4b26-9865-aab5dcfb1b32"
+              },
+              {
+                "id": "9554d833-a74b-45c1-b7f9-810e8af36ba3-c79f14a9-3d9e-4b26-9865-aab5dcfb1b32",
+                "rowId": "9554d833-a74b-45c1-b7f9-810e8af36ba3",
+                "colId": "c79f14a9-3d9e-4b26-9865-aab5dcfb1b32"
+              },
+              {
+                "id": "212e8fe3-98e6-4b78-9c6e-8aa043afe7d0-8f671f24-fb03-40a9-9280-c95c5c48822c",
+                "rowId": "212e8fe3-98e6-4b78-9c6e-8aa043afe7d0",
+                "colId": "8f671f24-fb03-40a9-9280-c95c5c48822c",
+                "nodeType": "automation",
+                "nodeId": "4d937c12-e03e-43a9-a15e-41622a5f4cab"
+              },
+              {
+                "id": "96d8eb45-d332-4797-961e-9f7c22b34236-8f671f24-fb03-40a9-9280-c95c5c48822c",
+                "rowId": "96d8eb45-d332-4797-961e-9f7c22b34236",
+                "colId": "8f671f24-fb03-40a9-9280-c95c5c48822c",
+                "nodeType": "command",
+                "nodeId": "42255edc-1569-463c-a6cc-d4473a77cc12"
+              },
+              {
+                "id": "f8e26350-c273-4fb4-bc4f-94eecebb4954-8f671f24-fb03-40a9-9280-c95c5c48822c",
+                "rowId": "f8e26350-c273-4fb4-bc4f-94eecebb4954",
+                "colId": "8f671f24-fb03-40a9-9280-c95c5c48822c",
+                "nodeType": "event",
+                "nodeId": "61e12b94-8c4f-4cef-9c20-77f679cf298d"
+              },
+              {
+                "id": "9554d833-a74b-45c1-b7f9-810e8af36ba3-8f671f24-fb03-40a9-9280-c95c5c48822c",
+                "rowId": "9554d833-a74b-45c1-b7f9-810e8af36ba3",
+                "colId": "8f671f24-fb03-40a9-9280-c95c5c48822c"
+              }
+            ]
+          },
+          "title": "System Initialization"
+        }
+      },
+      "4fa96be9-97d4-4c70-b726-cc1f6b8f2de0": {
+        "meta": {
+          "type": "AUTOMATION",
+          "title": "System Initializer",
+          "fields": [
+            {
+              "name": "version",
+              "example": "1",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": false,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Int",
+              "cardinality": "Single",
+              "subfields": []
+            },
+            {
+              "name": "module",
+              "example": "SystemInitialization.V1",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": true,
+              "edited": false,
+              "idAttribute": false,
+              "type": "String",
+              "cardinality": "Single",
+              "subfields": []
+            }
+          ],
+          "compact": true,
+          "context": "INTERNAL",
+          "createsAggregate": false,
+          "listElement": false,
+          "todoListElement": false
+        }
+      },
+      "a02fc349-c733-425e-8c90-c74b5be4de9a": {
+        "meta": {
+          "type": "READMODEL",
+          "title": "System Initialization Version",
+          "fields": [
+            {
+              "name": "version",
+              "example": "0",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": false,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Int",
+              "cardinality": "Single",
+              "subfields": []
+            }
+          ],
+          "compact": true,
+          "context": "INTERNAL",
+          "createsAggregate": false,
+          "listElement": false,
+          "todoListElement": false
+        }
+      },
+      "2235b7f3-51a2-4e71-a6eb-ab44f8c76367": {
+        "meta": {
+          "title": "Initialize System",
+          "fields": [
+            {
+              "name": "module",
+              "example": "SystemInit.V1",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": false,
+              "edited": false,
+              "idAttribute": false,
+              "type": "String",
+              "cardinality": "Single",
+              "subfields": []
+            },
+            {
+              "name": "version",
+              "example": "1",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": false,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Int",
+              "cardinality": "Single",
+              "subfields": []
+            }
+          ],
+          "type": "COMMAND",
+          "compact": true,
+          "context": "INTERNAL",
+          "createsAggregate": false,
+          "listElement": false,
+          "todoListElement": false
+        }
+      },
+      "21016285-6c8c-42ff-8369-96394cf57661": {
+        "meta": {
+          "title": "System Initialization Requested",
+          "fields": [
+            {
+              "name": "module",
+              "example": "SystemInit.V1",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": false,
+              "edited": false,
+              "idAttribute": false,
+              "type": "String",
+              "cardinality": "Single",
+              "subfields": []
+            },
+            {
+              "name": "version",
+              "example": "1",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": false,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Int",
+              "cardinality": "Single",
+              "subfields": []
+            }
+          ],
+          "type": "EVENT",
+          "compact": true,
+          "context": "INTERNAL",
+          "createsAggregate": false,
+          "listElement": false,
+          "todoListElement": false
+        }
+      },
+      "25091b35-1861-4265-87e4-6f21c83aacaa": {
+        "meta": {
+          "title": "System Initialization Tasks To Process",
+          "fields": [
+            {
+              "name": "module",
+              "example": "SystemInit.V1",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": false,
+              "edited": false,
+              "idAttribute": false,
+              "type": "String",
+              "cardinality": "Single",
+              "subfields": []
+            },
+            {
+              "name": "version",
+              "example": "1",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": false,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Int",
+              "cardinality": "Single",
+              "subfields": [],
+              "mapping": "version"
+            },
+            {
+              "name": "context",
+              "example": "{}",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": true,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Custom",
+              "cardinality": "Single"
+            },
+            {
+              "name": "pending",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": true,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Custom",
+              "cardinality": "List"
+            }
+          ],
+          "type": "READMODEL",
+          "compact": true,
+          "context": "INTERNAL",
+          "createsAggregate": false,
+          "listElement": false,
+          "todoListElement": false,
+          "description": "A set tasks defined within the module are loaded into the pending list.\n\nEach task defines a command and the conditions that satisfy its completion, which is typically a single event.\n\nBy convention, each module's final task should be a system initialization finalization task."
+        }
+      },
+      "26ca8ed3-8a05-46d2-9233-dd08f2615919": {
+        "meta": {
+          "title": "System Initialization Task Processor",
+          "fields": [
+            {
+              "name": "active_module",
+              "example": "SystemInit.V1",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": false,
+              "edited": false,
+              "idAttribute": false,
+              "type": "String",
+              "cardinality": "Single",
+              "subfields": [],
+              "mapping": "module"
+            },
+            {
+              "name": "active_version",
+              "example": "1",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": false,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Int",
+              "cardinality": "Single",
+              "subfields": [],
+              "mapping": "version"
+            },
+            {
+              "name": "context",
+              "example": "{}",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": true,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Custom",
+              "cardinality": "Single"
+            },
+            {
+              "name": "pending",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": true,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Custom",
+              "cardinality": "List"
+            }
+          ],
+          "type": "AUTOMATION",
+          "compact": true,
+          "context": "INTERNAL",
+          "createsAggregate": false,
+          "listElement": false,
+          "todoListElement": false
+        }
+      },
+      "46c23cc0-d1f3-47d7-bc8f-3a2de4b24d1a": {
+        "meta": {
+          "fields": [],
+          "type": "COMMAND",
+          "compact": true,
+          "context": "INTERNAL",
+          "createsAggregate": false,
+          "listElement": false,
+          "todoListElement": false,
+          "title": "{Do Task}",
+          "description": "This is left generic, because it depends on the tasks that need to done for the system being designed.\n\nBut this is typically where I typically have many tasks, that define permissions, define roles, and grant permissions to roles."
+        }
+      },
+      "e8411de1-04b7-4400-b7c2-12119e8f1987": {
+        "meta": {
+          "type": "EVENT",
+          "title": "{Task Done}",
+          "context": "INTERNAL",
+          "fields": [],
+          "compact": true,
+          "createsAggregate": false,
+          "listElement": false,
+          "todoListElement": false
+        }
+      },
+      "f6affead-9e00-4180-a646-f3bb8a70bfc2": {
+        "meta": {
+          "title": "System Initialization Tasks To Process",
+          "fields": [],
+          "type": "READMODEL",
+          "compact": true,
+          "context": "INTERNAL",
+          "createsAggregate": false,
+          "listElement": false,
+          "todoListElement": false
+        }
+      },
+      "11b30516-104d-440d-9824-902e8553e73d": {
+        "meta": {
+          "title": "System Initialization Tasks To Process",
+          "fields": [
+            {
+              "name": "module",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": false,
+              "edited": false,
+              "idAttribute": false,
+              "type": "String",
+              "cardinality": "Single",
+              "subfields": []
+            },
+            {
+              "name": "version",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": false,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Int",
+              "cardinality": "Single",
+              "subfields": [],
+              "mapping": "version"
+            },
+            {
+              "name": "context",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": true,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Custom",
+              "cardinality": "Single",
+              "subfields": []
+            },
+            {
+              "name": "pending",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": true,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Custom",
+              "cardinality": "List",
+              "subfields": []
+            }
+          ],
+          "type": "READMODEL",
+          "compact": true,
+          "context": "INTERNAL",
+          "description": "A set tasks defined within the module are loaded into the pending list.\n\nEach task defines a command and the conditions that satisfy its completion, which is typically a single event.\n\nBy convention, each module's final task should be a system initialization finalization task.",
+          "createsAggregate": false,
+          "listElement": false,
+          "todoListElement": false
+        }
+      },
+      "7944e198-8d5e-4e5b-ab84-473aa3a3fd5c": {
+        "meta": {
+          "title": "System Initialization Task Processor",
+          "fields": [
+            {
+              "name": "active_module",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": false,
+              "edited": false,
+              "idAttribute": false,
+              "type": "String",
+              "cardinality": "Single",
+              "subfields": [],
+              "mapping": "module"
+            },
+            {
+              "name": "active_version",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": false,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Int",
+              "cardinality": "Single",
+              "subfields": [],
+              "mapping": "version"
+            },
+            {
+              "name": "context",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": true,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Custom",
+              "cardinality": "Single",
+              "subfields": []
+            },
+            {
+              "name": "pending",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": true,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Custom",
+              "cardinality": "List",
+              "subfields": []
+            }
+          ],
+          "type": "AUTOMATION",
+          "compact": true,
+          "context": "INTERNAL",
+          "createsAggregate": false,
+          "listElement": false,
+          "todoListElement": false
+        }
+      },
+      "316c7a6c-a806-4ce7-a10d-9c7cbae5689b": {
+        "meta": {
+          "title": "Finalize System Initialization",
+          "fields": [
+            {
+              "name": "version",
+              "example": "1",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": false,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Int",
+              "cardinality": "Single",
+              "subfields": [],
+              "mapping": "active_version"
+            }
+          ],
+          "type": "COMMAND",
+          "compact": true,
+          "context": "INTERNAL",
+          "createsAggregate": false,
+          "listElement": false,
+          "todoListElement": false
+        }
+      },
+      "7854b241-91a4-4fb6-ab36-9eee759571c7": {
+        "meta": {
+          "title": "System Initialized",
+          "fields": [
+            {
+              "name": "version",
+              "example": "1",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": false,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Int",
+              "cardinality": "Single",
+              "subfields": [],
+              "mapping": "active_version"
+            }
+          ],
+          "type": "EVENT",
+          "compact": true,
+          "context": "INTERNAL",
+          "createsAggregate": false,
+          "listElement": false,
+          "todoListElement": false
+        }
+      },
+      "13d79d83-978e-4e0c-b20c-999bb19220d9": {
+        "meta": {
+          "title": "System Initialization Tasks To Process",
+          "fields": [
+            {
+              "name": "module",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": false,
+              "edited": false,
+              "idAttribute": false,
+              "type": "String",
+              "cardinality": "Single",
+              "subfields": []
+            },
+            {
+              "name": "version",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": false,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Int",
+              "cardinality": "Single",
+              "subfields": [],
+              "mapping": "version"
+            },
+            {
+              "name": "context",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": true,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Custom",
+              "cardinality": "Single",
+              "subfields": []
+            },
+            {
+              "name": "pending",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": true,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Custom",
+              "cardinality": "List",
+              "subfields": []
+            }
+          ],
+          "type": "READMODEL",
+          "compact": true,
+          "context": "INTERNAL",
+          "description": "A set tasks defined within the module are loaded into the pending list.\n\nEach task defines a command and the conditions that satisfy its completion, which is typically a single event.\n\nBy convention, each module's final task should be a system initialization finalization task.",
+          "createsAggregate": false,
+          "listElement": false,
+          "todoListElement": false
+        }
+      },
+      "5395f781-4202-47cd-a6e0-6f2486072cb7": {
+        "meta": {
+          "title": "System Initialization Version",
+          "fields": [
+            {
+              "name": "version",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": false,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Int",
+              "cardinality": "Single",
+              "subfields": [],
+              "example": "1"
+            }
+          ],
+          "type": "READMODEL",
+          "compact": true,
+          "context": "INTERNAL",
+          "createsAggregate": false,
+          "listElement": false,
+          "todoListElement": false
+        }
+      },
+      "4cfd39cc-6a93-475d-979f-1b72083eca33": {
+        "meta": {
+          "type": "SCENARIO",
+          "title": "Specifications",
+          "givenWhenThenScenario": {
+            "scenarios": [
+              {
+                "id": "e0328941-5e78-4234-bdd7-e7f870a7e392",
+                "title": "Initial version set to zero",
+                "description": "Before the system is first started, the system is initialized to version 0.",
+                "expectError": false,
+                "expectEmptyList": false,
+                "examples": [],
+                "given": [],
+                "when": [],
+                "then": [
+                  {
+                    "id": "a02fc349-c733-425e-8c90-c74b5be4de9a",
+                    "title": "System Initialization Version",
+                    "type": "READMODEL",
+                    "fields": [
+                      {
+                        "name": "version",
+                        "example": "0"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "b7c312b8-3ad4-4154-8bfb-190fc00b381c",
+                "title": "Initialized to version 1",
+                "description": "Reports version 1 after first system initialization",
+                "expectError": false,
+                "expectEmptyList": false,
+                "examples": [],
+                "given": [
+                  {
+                    "id": "7854b241-91a4-4fb6-ab36-9eee759571c7",
+                    "title": "System Initialized",
+                    "type": "EVENT",
+                    "fields": [
+                      {
+                        "name": "version",
+                        "example": "1"
+                      }
+                    ]
+                  }
+                ],
+                "when": [],
+                "then": [
+                  {
+                    "id": "a02fc349-c733-425e-8c90-c74b5be4de9a",
+                    "title": "System Initialization Version",
+                    "type": "READMODEL",
+                    "fields": [
+                      {
+                        "name": "version",
+                        "example": "1"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "980c15c0-9225-4b09-bef3-8d64ad171b04",
+                "title": "Initialized to last version",
+                "description": "Reports the last system version that has completed.",
+                "expectError": false,
+                "expectEmptyList": false,
+                "examples": [],
+                "given": [
+                  {
+                    "id": "7854b241-91a4-4fb6-ab36-9eee759571c7",
+                    "title": "System Initialized",
+                    "type": "EVENT",
+                    "fields": [
+                      {
+                        "name": "version",
+                        "example": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "7854b241-91a4-4fb6-ab36-9eee759571c7",
+                    "title": "System Initialized",
+                    "type": "EVENT",
+                    "fields": [
+                      {
+                        "name": "version",
+                        "example": "2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "7854b241-91a4-4fb6-ab36-9eee759571c7",
+                    "title": "System Initialized",
+                    "type": "EVENT",
+                    "fields": [
+                      {
+                        "name": "version",
+                        "example": "3"
+                      }
+                    ]
+                  }
+                ],
+                "when": [],
+                "then": [
+                  {
+                    "id": "a02fc349-c733-425e-8c90-c74b5be4de9a",
+                    "title": "System Initialization Version",
+                    "type": "READMODEL",
+                    "fields": [
+                      {
+                        "name": "version",
+                        "example": "3"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "93d22fb5-16bd-466e-ac84-efce5a024fb5": {
+        "meta": {
+          "type": "SLICE_BORDER",
+          "title": "Finalize System Initialization"
+        }
+      },
+      "d5e09aba-e460-4828-94a9-275a4c2e0319": {
+        "meta": {
+          "type": "SLICE_BORDER",
+          "title": "Process Task"
+        }
+      },
+      "97b7eea5-205f-45fb-9453-b9070d69c4ac": {
+        "meta": {
+          "type": "SLICE_BORDER",
+          "title": "Mark Task Done",
+          "sliceStatus": "Informational"
+        }
+      },
+      "c74b0300-4769-48e9-82ed-af95638a5f42": {
+        "meta": {
+          "type": "SLICE_BORDER",
+          "title": "Populate Initialization Tasks"
+        }
+      },
+      "4bdb37f2-dff2-4b9e-847a-3ebbb97855e9": {
+        "meta": {
+          "type": "SLICE_BORDER",
+          "title": "Request System Initialization"
+        }
+      },
+      "7c78f997-d09b-481c-a1ee-cdb5e754d814": {
+        "meta": {
+          "type": "SLICE_BORDER",
+          "title": "Mark Initialization Done",
+          "sliceStatus": "Informational"
+        }
+      },
+      "c3e35613-78bf-40c9-892e-1ae49cfcd545": {
+        "meta": {
+          "type": "SLICE_BORDER",
+          "title": "Mark Initialized",
+          "sliceStatus": "Informational"
+        }
+      },
+      "4d937c12-e03e-43a9-a15e-41622a5f4cab": {
+        "meta": {
+          "title": "System Initializer",
+          "fields": [
+            {
+              "name": "version",
+              "example": "1",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": false,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Int",
+              "cardinality": "Single",
+              "subfields": []
+            },
+            {
+              "name": "module",
+              "example": "SystemInitialization.V1",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": true,
+              "edited": false,
+              "idAttribute": false,
+              "type": "String",
+              "cardinality": "Single",
+              "subfields": []
+            }
+          ],
+          "type": "AUTOMATION",
+          "compact": true,
+          "context": "INTERNAL",
+          "createsAggregate": false,
+          "listElement": false,
+          "todoListElement": false
+        }
+      },
+      "42255edc-1569-463c-a6cc-d4473a77cc12": {
+        "meta": {
+          "title": "Initialize System",
+          "fields": [
+            {
+              "name": "module",
+              "example": "SystemInit.V2",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": false,
+              "edited": false,
+              "idAttribute": false,
+              "type": "String",
+              "cardinality": "Single",
+              "subfields": []
+            },
+            {
+              "name": "version",
+              "example": "2",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": false,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Int",
+              "cardinality": "Single",
+              "subfields": []
+            }
+          ],
+          "type": "COMMAND",
+          "compact": true,
+          "context": "INTERNAL",
+          "createsAggregate": false,
+          "listElement": false,
+          "todoListElement": false
+        }
+      },
+      "61e12b94-8c4f-4cef-9c20-77f679cf298d": {
+        "meta": {
+          "title": "System Initialization Requested",
+          "fields": [
+            {
+              "name": "module",
+              "example": "SystemInit.V2",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": false,
+              "edited": false,
+              "idAttribute": false,
+              "type": "String",
+              "cardinality": "Single",
+              "subfields": []
+            },
+            {
+              "name": "version",
+              "example": "2",
+              "optional": false,
+              "showAttributes": false,
+              "technicalAttribute": false,
+              "query": false,
+              "generated": false,
+              "edited": false,
+              "idAttribute": false,
+              "type": "Int",
+              "cardinality": "Single",
+              "subfields": []
+            }
+          ],
+          "type": "EVENT",
+          "compact": true,
+          "context": "INTERNAL",
+          "createsAggregate": false,
+          "listElement": false,
+          "todoListElement": false
+        }
+      },
+      "730428e3-9fa2-405b-8777-502b15ceea54": {
+        "meta": {
+          "type": "SLICE_BORDER",
+          "title": "Request System Initialization V2",
+          "sliceStatus": "Informational"
+        }
+      },
+      "92999e46-7400-4d51-b28c-d2b576b6a580": {
+        "meta": {
+          "type": "SCENARIO",
+          "title": "Specifications",
+          "givenWhenThenScenario": {
+            "scenarios": [
+              {
+                "id": "77468c62-d918-4726-96ff-d421a9d22731",
+                "title": "Emits SystemInitializationRequested when nothing has run",
+                "expectError": false,
+                "expectEmptyList": false,
+                "examples": [],
+                "given": [],
+                "when": [
+                  {
+                    "id": "2235b7f3-51a2-4e71-a6eb-ab44f8c76367",
+                    "title": "Initialize System",
+                    "type": "COMMAND",
+                    "fields": [
+                      {
+                        "name": "module",
+                        "example": "SystemInit.V1"
+                      },
+                      {
+                        "name": "version",
+                        "example": "1"
+                      }
+                    ]
+                  }
+                ],
+                "then": [
+                  {
+                    "id": "21016285-6c8c-42ff-8369-96394cf57661",
+                    "title": "System Initialization Requested",
+                    "type": "EVENT",
+                    "fields": [
+                      {
+                        "name": "module",
+                        "example": "SystemInit.V1"
+                      },
+                      {
+                        "name": "version",
+                        "example": "1"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "11a4f4f1-ac1b-4b49-b608-77520a8133c4",
+                "title": "Rejected when out of sequence version",
+                "expectError": true,
+                "errorDescription": "expected version 1",
+                "expectEmptyList": false,
+                "examples": [],
+                "given": [],
+                "when": [
+                  {
+                    "id": "2235b7f3-51a2-4e71-a6eb-ab44f8c76367",
+                    "title": "Initialize System",
+                    "type": "COMMAND",
+                    "fields": [
+                      {
+                        "name": "module",
+                        "example": "SystemInit.V1"
+                      },
+                      {
+                        "name": "version",
+                        "example": "3"
+                      }
+                    ]
+                  }
+                ],
+                "then": []
+              },
+              {
+                "id": "885dab55-6a46-4275-95bc-91bba0be8773",
+                "title": "Rejected when already requested version",
+                "expectError": true,
+                "errorDescription": "already requested",
+                "expectEmptyList": false,
+                "examples": [],
+                "given": [
+                  {
+                    "id": "21016285-6c8c-42ff-8369-96394cf57661",
+                    "title": "System Initialization Requested",
+                    "type": "EVENT",
+                    "fields": [
+                      {
+                        "name": "module",
+                        "example": "SystemInit.V1"
+                      },
+                      {
+                        "name": "version",
+                        "example": "1"
+                      }
+                    ]
+                  }
+                ],
+                "when": [
+                  {
+                    "id": "2235b7f3-51a2-4e71-a6eb-ab44f8c76367",
+                    "title": "Initialize System",
+                    "type": "COMMAND",
+                    "fields": [
+                      {
+                        "name": "module",
+                        "example": "SystemInit.V1"
+                      },
+                      {
+                        "name": "version",
+                        "example": "1"
+                      }
+                    ]
+                  }
+                ],
+                "then": []
+              },
+              {
+                "id": "98c38249-8ba0-419a-a36f-bef9cb5b23e0",
+                "title": "Rejected when already initialized version",
+                "expectError": true,
+                "errorDescription": "already initialized",
+                "expectEmptyList": false,
+                "examples": [],
+                "given": [
+                  {
+                    "id": "21016285-6c8c-42ff-8369-96394cf57661",
+                    "title": "System Initialization Requested",
+                    "type": "EVENT",
+                    "fields": [
+                      {
+                        "name": "module",
+                        "example": "SystemInit.V1"
+                      },
+                      {
+                        "name": "version",
+                        "example": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "7854b241-91a4-4fb6-ab36-9eee759571c7",
+                    "title": "System Initialized",
+                    "type": "EVENT",
+                    "fields": [
+                      {
+                        "name": "version",
+                        "example": "1"
+                      }
+                    ]
+                  }
+                ],
+                "when": [
+                  {
+                    "id": "2235b7f3-51a2-4e71-a6eb-ab44f8c76367",
+                    "title": "Initialize System",
+                    "type": "COMMAND",
+                    "fields": [
+                      {
+                        "name": "module",
+                        "example": "SystemInit.V1"
+                      },
+                      {
+                        "name": "version",
+                        "example": "1"
+                      }
+                    ]
+                  }
+                ],
+                "then": []
+              },
+              {
+                "id": "bf565b9b-15bf-4f5c-bab3-917a86f1f2b2",
+                "title": "Rejected when version skipped",
+                "expectError": true,
+                "errorDescription": "expected version 2",
+                "expectEmptyList": false,
+                "examples": [],
+                "given": [
+                  {
+                    "id": "21016285-6c8c-42ff-8369-96394cf57661",
+                    "title": "System Initialization Requested",
+                    "type": "EVENT",
+                    "fields": [
+                      {
+                        "name": "module",
+                        "example": "SystemInit.V1"
+                      },
+                      {
+                        "name": "version",
+                        "example": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "7854b241-91a4-4fb6-ab36-9eee759571c7",
+                    "title": "System Initialized",
+                    "type": "EVENT",
+                    "fields": [
+                      {
+                        "name": "version",
+                        "example": "1"
+                      }
+                    ]
+                  }
+                ],
+                "when": [
+                  {
+                    "id": "2235b7f3-51a2-4e71-a6eb-ab44f8c76367",
+                    "title": "Initialize System",
+                    "type": "COMMAND",
+                    "fields": [
+                      {
+                        "name": "module",
+                        "example": "SystemInit.V1"
+                      },
+                      {
+                        "name": "version",
+                        "example": "3"
+                      }
+                    ]
+                  }
+                ],
+                "then": []
+              }
+            ]
+          }
+        }
+      },
+      "629a2cf8-cea8-4686-9daa-7c197e4e30c2": {
+        "meta": {
+          "type": "SCENARIO",
+          "title": "Specifications",
+          "givenWhenThenScenario": {
+            "scenarios": [
+              {
+                "id": "8c00d26b-b078-4b44-b3d5-51aa2282d708",
+                "title": "System Initialized emitted after version was requested",
+                "expectError": false,
+                "expectEmptyList": false,
+                "examples": [],
+                "given": [
+                  {
+                    "id": "21016285-6c8c-42ff-8369-96394cf57661",
+                    "title": "System Initialization Requested",
+                    "type": "EVENT",
+                    "fields": [
+                      {
+                        "name": "module",
+                        "example": "SystemInit.V1"
+                      },
+                      {
+                        "name": "version",
+                        "example": "1"
+                      }
+                    ]
+                  }
+                ],
+                "when": [
+                  {
+                    "id": "316c7a6c-a806-4ce7-a10d-9c7cbae5689b",
+                    "title": "Finalize System Initialization",
+                    "type": "COMMAND",
+                    "fields": [
+                      {
+                        "name": "version",
+                        "example": "1"
+                      }
+                    ]
+                  }
+                ],
+                "then": [
+                  {
+                    "id": "7854b241-91a4-4fb6-ab36-9eee759571c7",
+                    "title": "System Initialized",
+                    "type": "EVENT",
+                    "fields": [
+                      {
+                        "name": "version",
+                        "example": "1"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "1b11d998-10f3-4f06-adbb-8864d58755b8",
+                "title": "Rejected when the version was never requested",
+                "expectError": true,
+                "errorDescription": "not requested",
+                "expectEmptyList": false,
+                "examples": [],
+                "given": [],
+                "when": [
+                  {
+                    "id": "316c7a6c-a806-4ce7-a10d-9c7cbae5689b",
+                    "title": "Finalize System Initialization",
+                    "type": "COMMAND",
+                    "fields": [
+                      {
+                        "name": "version",
+                        "example": "1"
+                      }
+                    ]
+                  }
+                ],
+                "then": []
+              },
+              {
+                "id": "d91fa34c-2859-48f5-a68f-3187bc27988f",
+                "title": "Rejected when the version is already initialized",
+                "expectError": true,
+                "errorDescription": "already initialized",
+                "expectEmptyList": false,
+                "examples": [],
+                "given": [
+                  {
+                    "id": "21016285-6c8c-42ff-8369-96394cf57661",
+                    "title": "System Initialization Requested",
+                    "type": "EVENT",
+                    "fields": [
+                      {
+                        "name": "module",
+                        "example": "SystemInit.V1"
+                      },
+                      {
+                        "name": "version",
+                        "example": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "7854b241-91a4-4fb6-ab36-9eee759571c7",
+                    "title": "System Initialized",
+                    "type": "EVENT",
+                    "fields": [
+                      {
+                        "name": "version",
+                        "example": "1"
+                      }
+                    ]
+                  }
+                ],
+                "when": [
+                  {
+                    "id": "316c7a6c-a806-4ce7-a10d-9c7cbae5689b",
+                    "title": "Finalize System Initialization",
+                    "type": "COMMAND",
+                    "fields": [
+                      {
+                        "name": "version",
+                        "example": "1"
+                      }
+                    ]
+                  }
+                ],
+                "then": []
+              }
+            ]
+          }
+        }
+      },
+      "420f2862-90ab-4a31-8a26-d2af50a4df43": {
+        "meta": {
+          "type": "SLICE_BORDER",
+          "title": "First Start"
+        }
+      }
+    }
+  },
+  "images": {
+    "9a580aac-8f96-4a1d-84d1-094c74d76991": {}
+  },
+  "nodeSnapshots": {
+    "9a580aac-8f96-4a1d-84d1-094c74d76991": {}
+  }
+}
