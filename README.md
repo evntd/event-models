@@ -1,6 +1,6 @@
 
 # event-models
-A public collect of Event Models backed up from [app.eventmodelers.de](app.eventmodelers.de)
+A public collect of Event Models backed up from [app.eventmodelers.de](https://app.eventmodelers.de/canvas)
 
 
 ## Usage
