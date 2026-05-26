@@ -1,7 +1,8 @@
 
-# event-models
-A public collect of Event Models backed up from [app.eventmodelers.de](https://app.eventmodelers.de/canvas)
+# Event Models
+A public collection of Event Models used in system's built by Evntd.
 
+All backups can be loaded into [app.eventmodelers.de](https://app.eventmodelers.de/canvas).
 
 ## Usage
 
