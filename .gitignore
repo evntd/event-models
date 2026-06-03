@@ -1,0 +1,5 @@
+# Local tooling / agent context — not part of the published model collection
+CLAUDE.md
+parse_event_model.py
+__pycache__/
+*.pyc
